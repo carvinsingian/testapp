@@ -1,2 +1,3 @@
-# testapp
-android training exercise
+# My First App
+
+First application trial
